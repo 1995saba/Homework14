@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\bin\Debug\Task2.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\bin\Debug\Task2.exe
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\bin\Debug\Task2.pdb
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\obj\Debug\Task2.exe
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkXML\Task2\obj\Debug\Task2.pdb

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student name="Semyon Semyonych">
+    <group>123</group>
+    <gpa>4.0</gpa>
+  </student>
+</students>
